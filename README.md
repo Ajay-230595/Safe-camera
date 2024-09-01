@@ -1,2 +1,1 @@
-# Safe-camera
-Safe-camera
+# safe-cams-static-website
